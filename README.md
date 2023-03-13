@@ -1,2 +1,2 @@
 # Simulation-Methods
-In this repository you can find python code of classical simulation problems:  percolation, Monte-Carlo methods, random and pseudo-random pseudo-random numbers and generation of probability distributions.
+In this repository you can find python code of classical simulation problems:  percolation, Monte-Carlo methods, Metropolis–Hastings algorithm, random and pseudo-random numbers, random walk, probability calculations and generation of probability distributions, etc. In the "simulation methods overview" Notebook you can see some examples about this topic. I plan to upload more detailed code in the future.
